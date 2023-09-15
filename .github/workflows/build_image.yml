@@ -10,7 +10,7 @@ on:
 
 env:
   # renovate: datasource=github-releases depName=mozilla/sops
-  SOPS_VERSION: v3.7.3
+  SOPS_VERSION: v3.8.0
   DOCKER_REPO: jonoh/sops
 
 jobs:
