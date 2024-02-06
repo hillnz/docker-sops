@@ -1,4 +1,4 @@
-FROM golang:1.21.6 AS build
+FROM golang:1.21.7 AS build
 
 ARG SOPS_VERSION=master
 
